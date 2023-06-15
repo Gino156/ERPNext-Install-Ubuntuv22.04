@@ -7,10 +7,15 @@ After setting up the VirtualBox, go to cmd terminal
 •	Development Setup
 
 sudo apt-get clean -y
+
 sudo apt-get autoremove -y
+
 sudo apt --fix-broken install -y
+
 sudo dpkg --configure -a
+
 sudo apt-get install -f
+
 sudo apt-get update && sudo apt-get upgrade
 
 •	root@server22
