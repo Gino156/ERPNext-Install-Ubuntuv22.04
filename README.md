@@ -5,6 +5,7 @@ After setting up the VirtualBox, go to cmd terminal
  In CMD:
  
 •	Development Setup
+
 sudo apt-get clean -y
 sudo apt-get autoremove -y
 sudo apt --fix-broken install -y
