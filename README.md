@@ -45,7 +45,7 @@ apt-get install xvfb libfontconfig wkhtmltopdf -y
 ### •	Setting your root password
 sudo passwd root
 
-password: dC_0jt22!?
+password: YOUR_PASSWORD
 
 ### •	Database configuration
 apt-get install mariadb-server mariadb-client -y
@@ -57,7 +57,7 @@ Switch to unix_socket authentication [Y/n] n
 
 Change the root password? [Y/n] y
 
-password: dC_0jt22!?
+password: YOUR_PASSWORD
 
 Remove anonymous users? [Y/n] y
 
