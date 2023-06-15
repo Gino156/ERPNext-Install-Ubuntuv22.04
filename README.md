@@ -1,7 +1,8 @@
 ERPNext Installation using Ubuntu v22.04
 
- After setting up the VirtualBox, go to cmd terminal
-In CMD:
+After setting up the VirtualBox, go to cmd terminal
+ 
+ In CMD:
 •	Development Setup
 sudo apt-get clean -y
 sudo apt-get autoremove -y
